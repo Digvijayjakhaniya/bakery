@@ -1,5 +1,3 @@
-��#� �b�a�k�e�r�y�
-�
-�
+#bakery
 
 ## with out responsive
